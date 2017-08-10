@@ -9,3 +9,4 @@ for (<FO>){
 }
 close FO
 	or die "close failed";
+print hello world;
