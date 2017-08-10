@@ -1,0 +1,11 @@
+#!/usr/bin/perl
+my @myfile=glob "*";
+for (@myfile){
+	print $_,"\n";
+}
+open FO,"<a";
+for (<FO>){
+	print $_;
+}
+close FO
+	or die "close failed";

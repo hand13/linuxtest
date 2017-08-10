@@ -1,0 +1,8 @@
+Program name: granite
+Author: hand&z
+Company: Hut
+Department: R&D
+Date: Sat Aug  5 11:37:05 CST 2017
+Version: 1.2
+Size: 100k
+Status: beta
